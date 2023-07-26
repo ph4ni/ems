@@ -10,6 +10,11 @@
 * **Generate Certificates**: Check eligibility and generate certificates automatically for all eligible participants. (in progress)
 
 ## 📸 Screenshots
+![image](https://github.com/ph4ni/ems/assets/29685411/782874b0-1e94-479b-93c5-ea1fe04fef1a)
+![image](https://github.com/ph4ni/ems/assets/29685411/702b28db-1d9c-4b40-b4e7-938ebbd8e89a)
+![image](https://github.com/ph4ni/ems/assets/29685411/5b0ebec4-2228-40d8-9021-27f23958bd3a)
+![image](https://github.com/ph4ni/ems/assets/29685411/57b9fee0-b147-4dc1-8c23-8181e48db35f)
+![image](https://github.com/ph4ni/ems/assets/29685411/b0f0e25d-96fa-4ffa-8f6c-228139dc9bf9)
 
 ## 🏗️ Development aka behind the scenes
 This project has been developed using the LAMP/XAMPP/WAMP stack with some JS here and there. Since it deals with dynamically generated html forms, PHP code and the MySQL queries accompanying it, it dwells into a fair bit of complexity. The code is not pretty to look at and refactoring is in the roadmap.
