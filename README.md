@@ -6,7 +6,7 @@
 * **Generate Forms**: Generate sign up forms based on requirements and share them to participants.
 * **Manage Data**: No need of juggling between csv, excel, and other files. Manage all submission data at one place.
 * **QR Attendance**: QR Codes are automatically generated and sent to users after their form has been submitted. Take attendances from Laptop/phone camers by simply scanning their QR codes!
-* **Multiple Sessions**: Organising multiple sessions in a single event? Create as many sessions as you like per event. Attendance data will be different between each session
+* **Multiple Sessions**: Organising multiple sessions in a single event? Create as many sessions as you like per event. Attendance data will be different between each session.
 * **Generate Certificates**: Check eligibility and generate certificates automatically for all eligible participants. (in progress)
 
 ## 📸 Screenshots
@@ -25,4 +25,5 @@ Some tasks you can take up
 * Implementing email alerts and confirmations.
 * Event-specific certificate elgibility rules and policies generation.
 * Multi-access to the admin dashboard so that volunteers can work together.
+* Host a demo of this project.
 * And whatever ideas you have, you can use the issues or discussion page of this repo.
