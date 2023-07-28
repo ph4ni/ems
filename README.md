@@ -20,7 +20,8 @@
 This project has been developed using the LAMP/XAMPP/WAMP stack with some JS here and there. Since it deals with dynamically generated html forms, PHP code and the MySQL queries accompanying it, it dwells into a fair bit of complexity. I started by researching existing software and wanted to fork [formtools.org](https://formtools.org/) for the form generation part, but later decided it was too complex form my use case and started writing my own. The code is not pretty to look at and refactoring is in the roadmap.<br><br>
 **References:**<br>
 PHP Registration + Login system: [codeshack.io/secure-registration-system-php-mysql](https://codeshack.io/secure-registration-system-php-mysql/)<br>
-QR Code Generator: [github.com/t0k4rt/phpqrcode](https://github.com/t0k4rt/phpqrcode).<br>
+QR Code Generator: [github.com/t0k4rt/phpqrcode](https://github.com/t0k4rt/phpqrcode)<br>
+HTML 5 QR Scanner: [github.com/schmich/instascan](https://github.com/schmich/instascan)<br>
 Certificate Generator With PHP Using imagettftext function: [dev.to/olawanle_joel/certificate-generator-with-php-using-imagettftext-function-1glh](https://dev.to/olawanle_joel/certificate-generator-with-php-using-imagettftext-function-1glh).
 
 ## 🤝 Contributing
