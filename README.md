@@ -17,7 +17,7 @@
 ![image](https://github.com/ph4ni/ems/assets/29685411/b0f0e25d-96fa-4ffa-8f6c-228139dc9bf9)
 
 ## 🏗️ Development aka behind the scenes
-This project has been developed using the LAMP/XAMPP/WAMP stack with some JS here and there. Since it deals with dynamically generated html forms, PHP code and the MySQL queries accompanying it, it dwells into a fair bit of complexity. The code is not pretty to look at and refactoring is in the roadmap.<br><br>
+This project has been developed using the LAMP/XAMPP/WAMP stack with some JS here and there. Since it deals with dynamically generated html forms, PHP code and the MySQL queries accompanying it, it dwells into a fair bit of complexity. I started by researching existing software and wanted to fork [formtools.org](https://formtools.org/) for the form generation part, but later decided it was too complex form my use case and started writing my own. The code is not pretty to look at and refactoring is in the roadmap.<br><br>
 **References:**<br>
 PHP Registration + Login system: [codeshack.io/secure-registration-system-php-mysql](https://codeshack.io/secure-registration-system-php-mysql/)<br>
 QR Code Generator: [github.com/t0k4rt/phpqrcode](https://github.com/t0k4rt/phpqrcode).<br>
