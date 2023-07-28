@@ -17,7 +17,11 @@
 ![image](https://github.com/ph4ni/ems/assets/29685411/b0f0e25d-96fa-4ffa-8f6c-228139dc9bf9)
 
 ## 🏗️ Development aka behind the scenes
-This project has been developed using the LAMP/XAMPP/WAMP stack with some JS here and there. Since it deals with dynamically generated html forms, PHP code and the MySQL queries accompanying it, it dwells into a fair bit of complexity. The code is not pretty to look at and refactoring is in the roadmap.
+This project has been developed using the LAMP/XAMPP/WAMP stack with some JS here and there. Since it deals with dynamically generated html forms, PHP code and the MySQL queries accompanying it, it dwells into a fair bit of complexity. The code is not pretty to look at and refactoring is in the roadmap.<br><br>
+**References:**<br>
+PHP Registration + Login system: [codeshack.io/secure-registration-system-php-mysql](https://codeshack.io/secure-registration-system-php-mysql/)<br>
+QR Code Generator: [github.com/t0k4rt/phpqrcode](https://github.com/t0k4rt/phpqrcode).<br>
+Certificate Generator With PHP Using imagettftext function: [dev.to/olawanle_joel/certificate-generator-with-php-using-imagettftext-function-1glh](https://dev.to/olawanle_joel/certificate-generator-with-php-using-imagettftext-function-1glh).
 
 ## 🤝 Contributing
 Some tasks you can take up
